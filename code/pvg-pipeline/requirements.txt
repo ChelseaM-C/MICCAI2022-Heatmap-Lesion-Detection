@@ -1,0 +1,24 @@
+# General
+jupyter
+notebook
+tqdm
+comet-ml==3.16.0
+scikit-learn==0.24.2
+
+# Visualizations
+matplotlib
+
+# Data
+lz4
+nibabel
+h5py
+
+# Computation
+numpy
+scipy
+torch
+monai==0.6.0
+torchvision
+pytorch-ignite
+kornia==0.5.3
+pandas
